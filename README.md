@@ -11,13 +11,13 @@ El personaje al momento que se acerca 5 cm una persona comienza a iluminar la na
 |--|--|--|--|
 |ESP32|<img src="https://github.com/user-attachments/assets/0d280367-493e-4f7c-a587-36e1f822116b"; width="100"/>|1|120.00|
 |HC-SR04|<img width="100" src="https://github.com/user-attachments/assets/e8f3a364-83e3-4194-9eb1-15547012fb1b"; />|1|30.00|
-|...||||
+|||||
 
 ## Software a utilizar
 |Software|Versión|
 |--|--|
 |Thonny|4.1.6|
-|...||
+|wokwi|sitio web: https://wokwi.com/|
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software
@@ -26,6 +26,7 @@ Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
+|https://wokwi.com/projects/410238299500802049|
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
@@ -35,3 +36,12 @@ Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pu
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
+|--|
+|<img width="100" src="https://github.com/user-attachments/assets/b28c216a-5620-417c-a9ba-37bf5884face";/>|
+|<img width="100" src="https://github.com/user-attachments/assets/d803d6b0-cd1d-402f-be0e-3676d195a91b";/>|
+|<img width="100" src="https://github.com/user-attachments/assets/76df1de4-5e4d-40a8-900e-ff008482ae56";/>|
+|<img width="100" src="https://github.com/user-attachments/assets/1aff17d5-7699-4c78-a9c4-bb13c77a9020";/>|
+|--|
+
+
+
