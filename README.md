@@ -21,6 +21,8 @@ El personaje al momento que se acerca 5 cm una persona comienza a iluminar la na
 
 ## Dibujo del personaje
 Imagen hecha a mano o con software
+|--|
+|<img src="https://drive.google.com/file/d/1dJUZ1zEefSW2U01Y4YRxiR9o-jpYBXln/view?usp=sharing"; width = "100"/>|
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
@@ -29,7 +31,7 @@ Deben ser de 1 a 2 enlaces de wokwi
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
 |--|
 |https://drive.google.com/file/d/1UtoBAVtG-QNLhtjSFl-alQG0TQMB457I/view?usp=sharing|
-|--|
+
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
