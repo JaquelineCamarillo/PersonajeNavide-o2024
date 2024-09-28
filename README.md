@@ -27,6 +27,9 @@ Deben ser de 1 a 2 enlaces de wokwi
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 5 minutos.
+|--|
+|https://drive.google.com/file/d/1UtoBAVtG-QNLhtjSFl-alQG0TQMB457I/view?usp=sharing|
+|--|
 
 ## Capturas de Evaluaciones de Curso de C
 Capturas de pantalla de sus resultados de evaluaciones del curso de C.
