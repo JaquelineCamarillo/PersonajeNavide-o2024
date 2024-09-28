@@ -28,7 +28,8 @@ Imagen hecha a mano o con software
 
 ## Enlaces de la simulación de wokwi
 Deben ser de 1 a 2 enlaces de wokwi
-|https://wokwi.com/projects/410238299500802049|
+|--|
+|https://wokwi.com/projects/410238299500802049 |
 
 ## Videos
 Enlace del vídeo en drive u cualquier otro repositorio donde yo como docente pueda evaluar con una duración máxima de 6 minutos.
